@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A passionate ATUDA soldior at the IDF</h3>
+<h3 align="center">A passionate ATUDA solider at the IDF</h3>
 
 - 🔭 'm a CS student at **Bar Ilan university**
 
