@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate ATUDA soldior at the IDF</h3>
 
+- 🔭 'm a CS student at **Bar Ilan university**
+
 - 🌱 I’m currently learning **AI and Algo**
+
+- 👯 I'm looking to collaborate in a **fun and motivated team**
 
 - 💬 Ask me about **anything**
 
