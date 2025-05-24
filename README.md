@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **bentau19@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YegK30X8EcIkmZAlxAwEcHROGG97h_UM/edit](https://docs.google.com/document/d/1YegK30X8EcIkmZAlxAwEcHROGG97h_UM/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
